@@ -1,3 +1,5 @@
+REGULARIZATION
+
 Regularization is a set of techniques that prevent your model from overfitting by adding constraints or penalties to its learning process. It encourages simpler models that generalize better to unseen data, trading a bit of training-set accuracy for greater real-world performance.
 
 Why Regularization Matters
@@ -52,6 +54,7 @@ Monitor validation performance and halt training once performance stops improvin
 Impact: dynamic regularization without modifying the loss function.
 
 Visualizing Regularization
+I can’t generate images directly in this chat, but I’d love to know which visuals would best complement your understanding. Here are three ideas you might choose from:
 
 A plot of the penalty functions for L1 vs. L2 (absolute vs. squared) showing how they push weights toward zero.
 
